@@ -1,0 +1,4 @@
+This demo from: http://www.codeproject.com/Articles/9826/How-to-create-a-DLL-library-in-C-and-then-use-it-w
+
+note though that this does not work on Linux:
+__declspec(dllexport) (in the C++ code)

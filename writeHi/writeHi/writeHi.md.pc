@@ -1,0 +1,5 @@
+Name: writeHi
+Description: 
+Version: 0.1
+Libs: -L"/home/daws/projects/TEST/DLLs/writeHi/writeHi/bin/Debug" -lwriteHi
+Cflags: -I"/home/daws/projects/TEST/DLLs/writeHi/writeHi"
